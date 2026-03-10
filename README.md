@@ -1,5 +1,6 @@
 # soporte-ti-branching
 LABORATORIO: Primeros Branches en GitHub
+<<<<<<< HEAD
 Probelmas de usuario
 1 Restablecer contraseña
 2 Revisar permisos
