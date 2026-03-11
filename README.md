@@ -23,6 +23,16 @@ Si no hay conexión:
 3 Ejecutar ipconfig
 
  (Agrega guía de soporte de red)
+---
+
+
+## Problemas de impresora
+
+1. Revisar conexión USB
+2. Verificar drivers
+3. Reiniciar spooler
+
+
 
 ---
 
