@@ -3,12 +3,6 @@
 ## LABORATORIO: Primeros Branches en GitHub
 
 
-### Problemas de usuario
-
-1. Restablecer contraseña  
-2. Revisar permisos  
-3. Verificar acceso a red
-
 
 # Manual de Soporte TI
 
@@ -29,3 +23,11 @@ Si no hay conexión:
 3 Ejecutar ipconfig
 
  (Agrega guía de soporte de red)
+
+---
+
+ ### Problemas de usuario
+
+1. Restablecer contraseña  
+2. Revisar permisos  
+3. Verificar acceso a red
