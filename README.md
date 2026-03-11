@@ -1,13 +1,14 @@
 # soporte-ti-branching
 
-LABORATORIO: Primeros Branches en GitHub
+## LABORATORIO: Primeros Branches en GitHub
 
 
-Problemas de usuario
+### Problemas de usuario
 
-1 Restablecer contraseña
-2 Revisar permisos
-3 Verificar acceso a red
+1. Restablecer contraseña  
+2. Revisar permisos  
+3. Verificar acceso a red
+
 =======
 # Manual de Soporte TI
 
