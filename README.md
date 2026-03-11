@@ -22,7 +22,6 @@ Si no hay conexión:
 
 3 Ejecutar ipconfig
 
- (Agrega guía de soporte de red)
 ---
 
 
