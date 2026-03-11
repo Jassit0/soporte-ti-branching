@@ -9,7 +9,7 @@
 2. Revisar permisos  
 3. Verificar acceso a red
 
-=======
+
 # Manual de Soporte TI
 
 
