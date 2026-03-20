@@ -115,6 +115,5 @@ SOLICITANTE: Director de RH
 DESCRIPCIÓN: Alta de usuario "Carlos Adrian". 
 
 NOTAS DE TI: Usuario creado siguiendo la política de seguridad 
-
-&nbsp;          de datos sensibles. MFA activo.
+de datos sensibles. MFA activo.
 
